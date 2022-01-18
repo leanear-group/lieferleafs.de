@@ -1,6 +1,6 @@
 ---
 layout: openm
-title: OpenMenu - Examplo Restaurant
+title: LieferLeafs - Examplo Restaurant
 ---
 
 ## Desktopansicht

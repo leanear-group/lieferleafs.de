@@ -1,6 +1,6 @@
 ---
 layout: blanc
-title: lieferleafs - Liefergenossenschaft
+title: LieferLeafs - Genossenschaftliche Bestellplattform
 ---
 
 

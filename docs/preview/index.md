@@ -3,6 +3,12 @@ layout: openm
 title: LieferLeafs - Examplo Restaurant
 ---
 
+<style>
+h2 {
+    margin-top:10px;
+}
+</style>
+
 ## Desktopansicht
 
 <style>

@@ -8,6 +8,7 @@ h2 {
     margin-top:10px;
 }
 </style>
+<script src="https://webanalytics.srv.infracamp.org/webanalytics.js?subscription_id=leanea"></script>
 
 ## Desktopansicht
 

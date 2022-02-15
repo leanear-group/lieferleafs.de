@@ -19,6 +19,6 @@ Ein Projekt von <a href="https://leanea.de"><img src="https://leanea.de/assets/l
 </div>
 </div>
 </div>
-Ein Projekt von <a href="https://leanea.de"><img src="https://leanea.de/assets/leanea-logo-sm.png"></a>
 
+<script src="https://webanalytics.srv.infracamp.org/webanalytics.js?subscription_id=leanea"></script>
 </div>
